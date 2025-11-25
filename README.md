@@ -4,7 +4,7 @@
 🔥 VIVEK YADAV | RAHAGIR – Learning Mode
 =========================== -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=VIVEK+YADAV+%7C+RAHAGIR;FULL+STACK+WEB+DEVELOPER;Learning+Mode" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=VIVEK+YADAV+%7C+RAHAGIR;FULL+STACK+WEB+DEVELOPER;Learning+Mode...." />
 
 <br/>
 
