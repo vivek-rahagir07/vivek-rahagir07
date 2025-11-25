@@ -24,7 +24,7 @@
 💻 ABOUT ME
 =========================== -->
 
-<h2 align="center" style="color:#39FF14;">💻 // ABOUT ME ━━ NEON MODE</h2>
+<h2 align="center" style="color:#39FF14;"> 💻 ABOUT ME 💻</h2>
 
 <div style="
 border:2px solid #39FF14;
@@ -50,7 +50,7 @@ color:#d4ffd4;
 🕉 QUOTE
 =========================== -->
 
-<h2 align="center" style="color:#39FF14;">🕉 // DHARMA </h2>
+<h2 align="center" style="color:#39FF14;">🕉 DHARMA 🕉 </h2>
 
 <div align="center" style="
 border:2px solid #39FF14;
@@ -88,7 +88,7 @@ box-shadow:0 0 25px #39FF14;">
 🧪 SKILLS
 =========================== -->
 
-<h2 align="center" style="color:#39FF14;">🧪SKILLS🧪</h2>
+<h2 align="center" style="color:#39FF14;">🧪 SKILLS 🧪</h2>
 
 <div style="
 border:2px solid #39FF14;
@@ -143,7 +143,7 @@ Dynamic API-based city metrics visualizer
 📊 GITHUB ANALYTICS
 =========================== -->
 
-<h2 align="center" style="color:#39FF14;">📊 // ANALYTICS ━━ GITHUB STATS</h2>
+<h2 align="center" style="color:#39FF14;">📊GITHUB STATS📊</h2>
 
 <div align="center" style="box-shadow:0 0 25px #39FF14; border-radius:10px; padding:5px;">
 
@@ -160,7 +160,7 @@ Dynamic API-based city metrics visualizer
 💀 HACKER QUOTE
 =========================== -->
 
-<h2 align="center" style="color:#39FF14;">💀 THOUGHT PROCESS </h2>
+<h2 align="center" style="color:#39FF14;">💀 THOUGHT PROCESS 💀</h2>
 
 <div align="center" style="
 border:2px solid #39FF14;
@@ -178,7 +178,7 @@ box-shadow:0 0 25px #39FF14;
 📡 CONTACT
 =========================== -->
 
-<h2 align="center" style="color:#39FF14;">📡 CONTACT PORTAL</h2>
+<h2 align="center" style="color:#39FF14;">📡 CONTACT PORTAL 📡</h2>
 
 <div align="center" style="
 border:3px dashed #39FF14;
