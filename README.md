@@ -122,7 +122,7 @@ color:#39FF14;
 🚀 PROJECTS
 =========================== -->
 
-<h2 align="center" style="color:#39FF14;">🚀 // PROJECTS ━━ FEATURED</h2>
+<h2 align="center" style="color:#39FF14;">🚀 Projects 🚀</h2>
 
 <div style="border-left:4px solid #39FF14; padding-left:15px;">
 
@@ -143,7 +143,7 @@ Dynamic API-based city metrics visualizer
 📊 GITHUB ANALYTICS
 =========================== -->
 
-<h2 align="center" style="color:#39FF14;">📊GITHUB STATS📊</h2>
+<h2 align="center" style="color:#39FF14;">📊 GITHUB STATS 📊</h2>
 
 <div align="center" style="box-shadow:0 0 25px #39FF14; border-radius:10px; padding:5px;">
 
