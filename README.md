@@ -147,7 +147,6 @@ Dynamic API-based city metrics visualizer
 
 <div align="center" style="box-shadow:0 0 25px #39FF14; border-radius:10px; padding:5px;">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vivek-rahagir07&show_icons=true&theme=chartreuse-dark" />
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vivek-rahagir07&theme=highcontrast" />
 </div>
