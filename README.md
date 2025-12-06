@@ -188,7 +188,6 @@ box-shadow:0 0 40px #39FF14;
 width:85%;
 ">
 
-<p style="font-size:1.1em; color:white;">Contacts</p>
 
 **📧 Email:**  
 <a href="mailto:vivekhr36.2007@gmail.com" style="color:#39FF14;">vivekhr36.2007@gmail.com</a>  
