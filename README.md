@@ -139,21 +139,6 @@ Dynamic API-based city metrics visualizer
 **Stack:** JavaScript • APIs • D3.js  
 </div>
 
-<!-- ===========================
-📊 GITHUB ANALYTICS
-=========================== -->
-
-<h2 align="center" style="color:#39FF14;">📊 GITHUB STATS 📊</h2>
-
-<div align="center" style="box-shadow:0 0 25px #39FF14; border-radius:10px; padding:5px;">
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vivek-rahagir07&theme=highcontrast" />
-</div>
-
-<div align="center" style="margin-top:20px; box-shadow:0 0 25px #39FF14; border-radius:10px; padding:5px;">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-rahagir07&layout=compact&theme=chartreuse-dark" />
-</div>
 
 <!-- ===========================
 💀 HACKER QUOTE
