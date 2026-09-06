@@ -54,7 +54,7 @@
   <tr>
     <td width="36%" align="center" valign="middle">
       <a href="https://vivek-rahagir.com">
-        <img src="./assets/vivek-profile-circle.png" width="250" alt="Vivek Yadav (Rahagir)" />
+        <img src="https://raw.githubusercontent.com/vivek-rahagir07/vivek-rahagir07/main/assets/vivek-profile-circle.png" width="250" alt="Vivek Yadav (Rahagir)" />
       </a>
       <br/>
       <b>Vivek Yadav (Rahagir)</b><br/>
@@ -106,7 +106,7 @@
   <tr align="center">
     <td width="33%">
       <a href="https://vivek-rahagir.com">
-        <img src="./assets/card-monochrome.png" width="96%" alt="Vivek Yadav - The Architect" />
+        <img src="https://raw.githubusercontent.com/vivek-rahagir07/vivek-rahagir07/main/assets/card-monochrome.png" width="96%" alt="Vivek Yadav - The Architect" />
       </a>
       <br/>
       <b>🧠 The Architect</b><br/>
@@ -114,7 +114,7 @@
     </td>
     <td width="33%">
       <a href="https://vivek-rahagir.com">
-        <img src="./assets/card-sunset.png" width="96%" alt="Vivek Yadav - The Visionary" />
+        <img src="https://raw.githubusercontent.com/vivek-rahagir07/vivek-rahagir07/main/assets/card-sunset.png" width="96%" alt="Vivek Yadav - The Visionary" />
       </a>
       <br/>
       <b>🌅 The Rahagir (Traveler)</b><br/>
@@ -122,7 +122,7 @@
     </td>
     <td width="33%">
       <a href="https://vivek-rahagir.com">
-        <img src="./assets/card-suit.png" width="96%" alt="Vivek Yadav - The Engineer" />
+        <img src="https://raw.githubusercontent.com/vivek-rahagir07/vivek-rahagir07/main/assets/card-suit.png" width="96%" alt="Vivek Yadav - The Engineer" />
       </a>
       <br/>
       <b>💼 The Full Stack Engineer</b><br/>
@@ -300,7 +300,7 @@
 
 <!-- ANIMATED DEVELOPER TERMINAL & TELEMETRY -->
 <a href="https://vivek-rahagir.com" target="_blank">
-  <img src="./assets/terminal-vibe.svg" width="100%" alt="Vivek Yadav Live Terminal & Telemetry" />
+  <img src="https://raw.githubusercontent.com/vivek-rahagir07/vivek-rahagir07/main/assets/terminal-vibe.svg" width="100%" alt="Vivek Yadav Live Terminal & Telemetry" />
 </a>
 
 </div>
